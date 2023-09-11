@@ -1,0 +1,112 @@
+[
+  {
+    "data_id": 1,
+    "cover_image": "https://example.com/image1.jpg",
+    "author": "Author 1",
+    "title": "Title 1",
+    "author_name": "Author Name 1",
+    "author_img": "https://example.com/author1.jpg",
+    "post_date": "2023-09-11",
+    "reading_time": 10,
+    "hashtags": ["#technology", "#science"]
+  },
+  {
+    "data_id": 2,
+    "cover_image": "https://example.com/image2.jpg",
+    "author": "Author 2",
+    "title": "Title 2",
+    "author_name": "Author Name 2",
+    "author_img": "https://example.com/author2.jpg",
+    "post_date": "2023-09-10",
+    "reading_time": 8,
+    "hashtags": ["#travel", "#adventure"]
+  },
+  {
+    "data_id": 3,
+    "cover_image": "https://example.com/image3.jpg",
+    "author": "Author 3",
+    "title": "Title 3",
+    "author_name": "Author Name 3",
+    "author_img": "https://example.com/author3.jpg",
+    "post_date": "2023-09-09",
+    "reading_time": 12,
+    "hashtags": ["#health", "#wellness"]
+  },
+  {
+    "data_id": 4,
+    "cover_image": "https://example.com/image4.jpg",
+    "author": "Author 4",
+    "title": "Title 4",
+    "author_name": "Author Name 4",
+    "author_img": "https://example.com/author4.jpg",
+    "post_date": "2023-09-08",
+    "reading_time": 15,
+    "hashtags": ["#food", "#recipes"]
+  },
+  {
+    "data_id": 5,
+    "cover_image": "https://example.com/image5.jpg",
+    "author": "Author 5",
+    "title": "Title 5",
+    "author_name": "Author Name 5",
+    "author_img": "https://example.com/author5.jpg",
+    "post_date": "2023-09-07",
+    "reading_time": 7,
+    "hashtags": ["#sports", "#fitness"]
+  },
+  {
+    "data_id": 6,
+    "cover_image": "https://example.com/image6.jpg",
+    "author": "Author 6",
+    "title": "Title 6",
+    "author_name": "Author Name 6",
+    "author_img": "https://example.com/author6.jpg",
+    "post_date": "2023-09-06",
+    "reading_time": 9,
+    "hashtags": ["#books", "#reading"]
+  },
+  {
+    "data_id": 7,
+    "cover_image": "https://example.com/image7.jpg",
+    "author": "Author 7",
+    "title": "Title 7",
+    "author_name": "Author Name 7",
+    "author_img": "https://example.com/author7.jpg",
+    "post_date": "2023-09-05",
+    "reading_time": 11,
+    "hashtags": ["#art", "#creativity"]
+  },
+  {
+    "data_id": 8,
+    "cover_image": "https://example.com/image8.jpg",
+    "author": "Author 8",
+    "title": "Title 8",
+    "author_name": "Author Name 8",
+    "author_img": "https://example.com/author8.jpg",
+    "post_date": "2023-09-04",
+    "reading_time": 13,
+    "hashtags": ["#music", "#entertainment"]
+  },
+  {
+    "data_id": 9,
+    "cover_image": "https://example.com/image9.jpg",
+    "author": "Author 9",
+    "title": "Title 9",
+    "author_name": "Author Name 9",
+    "author_img": "https://example.com/author9.jpg",
+    "post_date": "2023-09-03",
+    "reading_time": 6,
+    "hashtags": ["#environment", "#nature"]
+  },
+  {
+    "data_id": 10,
+    "cover_image": "https://example.com/image10.jpg",
+    "author": "Author 10",
+    "title": "Title 10",
+    "author_name": "Author Name 10",
+    "author_img": "https://example.com/author10.jpg",
+    "post_date": "2023-09-02",
+    "reading_time": 14,
+    "hashtags": ["#business", "#economy"]
+  }
+]
