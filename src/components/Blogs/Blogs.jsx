@@ -9,9 +9,11 @@ const Blogs = () => {
       .then((res) => res.json())
       .then((data) => setBlogs(data));
   }, []);
-  return <div>
-    
-  </div>;
+  return (
+    <div className="md:w-2/3">
+      <h1 className="text-4xl">Bloges {blogs.length}</h1>
+    </div>
+  );
 };
 
 export default Blogs;

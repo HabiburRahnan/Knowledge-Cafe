@@ -1,7 +1,7 @@
 [
   {
     "data_id": 1,
-    "cover_image": "https://example.com/image1.jpg",
+    "cover_image": "https://i.ibb.co/k6T6GK3/images3.jpg",
     "author": "Author 1",
     "title": "Title 1",
     "author_name": "Author Name 1",
@@ -12,7 +12,7 @@
   },
   {
     "data_id": 2,
-    "cover_image": "https://example.com/image2.jpg",
+    "cover_image": "https://i.ibb.co/4gcXdCz/images.jpg",
     "author": "Author 2",
     "title": "Title 2",
     "author_name": "Author Name 2",
@@ -23,7 +23,7 @@
   },
   {
     "data_id": 3,
-    "cover_image": "https://example.com/image3.jpg",
+    "cover_image": "https://i.ibb.co/rwj6VP3/image7.jpg",
     "author": "Author 3",
     "title": "Title 3",
     "author_name": "Author Name 3",
@@ -34,7 +34,7 @@
   },
   {
     "data_id": 4,
-    "cover_image": "https://example.com/image4.jpg",
+    "cover_image": "https://i.ibb.co/KGqK6TY/image4.jpg",
     "author": "Author 4",
     "title": "Title 4",
     "author_name": "Author Name 4",
@@ -45,7 +45,7 @@
   },
   {
     "data_id": 5,
-    "cover_image": "https://example.com/image5.jpg",
+    "cover_image": "https://i.ibb.co/ZMCs1x2/image2.jpg",
     "author": "Author 5",
     "title": "Title 5",
     "author_name": "Author Name 5",
@@ -56,7 +56,7 @@
   },
   {
     "data_id": 6,
-    "cover_image": "https://example.com/image6.jpg",
+    "cover_image": "https://i.ibb.co/68RHFWw/image-8jpg.jpg",
     "author": "Author 6",
     "title": "Title 6",
     "author_name": "Author Name 6",
@@ -67,7 +67,7 @@
   },
   {
     "data_id": 7,
-    "cover_image": "https://example.com/image7.jpg",
+    "cover_image": "https://i.ibb.co/mBB7T8D/imafe5.jpg",
     "author": "Author 7",
     "title": "Title 7",
     "author_name": "Author Name 7",
@@ -78,7 +78,7 @@
   },
   {
     "data_id": 8,
-    "cover_image": "https://example.com/image8.jpg",
+    "cover_image": "https://i.ibb.co/D1DdCcz/download22.jpg",
     "author": "Author 8",
     "title": "Title 8",
     "author_name": "Author Name 8",
@@ -89,7 +89,7 @@
   },
   {
     "data_id": 9,
-    "cover_image": "https://example.com/image9.jpg",
+    "cover_image": "https://i.ibb.co/WzjCdS2/download11.jpg",
     "author": "Author 9",
     "title": "Title 9",
     "author_name": "Author Name 9",
@@ -100,7 +100,7 @@
   },
   {
     "data_id": 10,
-    "cover_image": "https://example.com/image10.jpg",
+    "cover_image": "https://i.ibb.co/jfKS9Zz/download.jpg",
     "author": "Author 10",
     "title": "Title 10",
     "author_name": "Author Name 10",
