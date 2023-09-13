@@ -1,10 +1,65 @@
 import PropTypes from "prop-types";
-const Blog = ({ blog }) => {
+import { FaBookmark } from "react-icons/fa";
+const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
+  const {
+    title,
+    cover_image,
+    author_name,
+    author_img,
+    reading_time,
+    post_date,
+    hashtags,
+  } = blog;
   console.log(blog);
-  return <div></div>;
+  return (
+    // main div
+    <div className="mb-20 space-y-4">
+      <img className="w-full mb-8" src={cover_image} alt="" />
+      <div className="flex justify-between mb-4 ">
+        {/* author name and photo div */}
+        <div className="flex">
+          <img className="w-14 " src={author_img} alt="" />
+          {/* author name and post date div */}
+          <div className=" ml-6">
+            <h3 className="text-2xl">{author_name}</h3>
+            <p>{post_date}</p>
+          </div>
+        </div>
+        {/* reading time div */}
+        <div>
+          <span>{reading_time} min read</span>
+          <button
+            onClick={() => handleAddToBookmark(blog)}
+            className="ml-2 text-red-600">
+            <FaBookmark />
+          </button>
+        </div>
+      </div>
+      {/* #tag and title div */}
+      <div className=" ">
+        <h2 className="text-4xl">Title: {title}</h2>
+        <div>
+          <p>
+            {hashtags.map((hash, idx) => (
+              <span key={idx}>
+                <a href="">{hash}</a>
+              </span>
+            ))}
+          </p>
+          <button
+            onClick={() => handleMarkAsRead(reading_time)}
+            className="text-purple-700 font-bold underline">
+            Mark As Read
+          </button>
+        </div>
+      </div>
+    </div>
+  );
 };
 
 Blog.prototype = {
   blog: PropTypes.object.isRequired,
+  handleAddToBookmark: PropTypes.func,
+  handleMarkAsRead: PropTypes.func,
 };
 export default Blog;

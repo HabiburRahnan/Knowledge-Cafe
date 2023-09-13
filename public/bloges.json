@@ -1,22 +1,22 @@
 [
   {
-    "data_id": 1,
+    "id": 1,
     "cover_image": "https://i.ibb.co/k6T6GK3/images3.jpg",
     "author": "Author 1",
     "title": "Title 1",
     "author_name": "Author Name 1",
-    "author_img": "https://example.com/author1.jpg",
+    "author_img": "https://i.ibb.co/89shDjs/boy1.png",
     "post_date": "2023-09-11",
     "reading_time": 10,
     "hashtags": ["#technology", "#science"]
   },
   {
-    "data_id": 2,
+    "id": 2,
     "cover_image": "https://i.ibb.co/4gcXdCz/images.jpg",
     "author": "Author 2",
     "title": "Title 2",
     "author_name": "Author Name 2",
-    "author_img": "https://example.com/author2.jpg",
+    "author_img": "https://i.ibb.co/ncvMmNW/boy2.jpg",
     "post_date": "2023-09-10",
     "reading_time": 8,
     "hashtags": ["#travel", "#adventure"]
@@ -27,7 +27,7 @@
     "author": "Author 3",
     "title": "Title 3",
     "author_name": "Author Name 3",
-    "author_img": "https://example.com/author3.jpg",
+    "author_img": "https://i.ibb.co/JvGDC4b/girl1.jpg",
     "post_date": "2023-09-09",
     "reading_time": 12,
     "hashtags": ["#health", "#wellness"]
@@ -38,7 +38,7 @@
     "author": "Author 4",
     "title": "Title 4",
     "author_name": "Author Name 4",
-    "author_img": "https://example.com/author4.jpg",
+    "author_img": "https://i.ibb.co/8PCQdpx/girl2.jpg",
     "post_date": "2023-09-08",
     "reading_time": 15,
     "hashtags": ["#food", "#recipes"]
@@ -55,19 +55,19 @@
     "hashtags": ["#sports", "#fitness"]
   },
   {
-    "data_id": 6,
-    "cover_image": "https://i.ibb.co/68RHFWw/image-8jpg.jpg",
+    "id": 6,
+    "cover": "https://i.ibb.co/68RHFWw/image-8jpg.jpg",
     "author": "Author 6",
     "title": "Title 6",
     "author_name": "Author Name 6",
-    "author_img": "https://example.com/author6.jpg",
+    "author_img": "https://i.ibb.co/NYwg7VP/profile.png",
     "post_date": "2023-09-06",
     "reading_time": 9,
     "hashtags": ["#books", "#reading"]
   },
   {
-    "data_id": 7,
-    "cover_image": "https://i.ibb.co/mBB7T8D/imafe5.jpg",
+    "id": 7,
+    "cover": "https://i.ibb.co/mBB7T8D/imafe5.jpg",
     "author": "Author 7",
     "title": "Title 7",
     "author_name": "Author Name 7",
